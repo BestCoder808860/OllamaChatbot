@@ -3,7 +3,7 @@
 A simple **offline AI chatbot** powered by Ollama + Llama models.
 
 This project contains only:
-- `chatbot.exe` (the app)
+- `OllamaChatbot.zip` (a ZIP file with the app)
 - `README.md` (this guide)
 
 No coding required to use it.
