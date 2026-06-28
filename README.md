@@ -36,5 +36,3 @@ Open Command Prompt and run:
 
 ```bash
 ollama pull llama3.2
----
-Now run chatbot.exe inside OllamaChatbot.zip and it will work!
